@@ -77,11 +77,16 @@ padding=none;
 display:block;
 border:6px solid #2F4F4F;
 border-radius:15px;
-width:250px;
-height:200px;
-margin:auto;
+width:170px;
+height:205px;
 margin-top:100px;
 margin-bottom:100px;
+}
+
+#photo {
+width:170px;
+height:205px;
+border-radius: 13px;
 }
 
 #email {
